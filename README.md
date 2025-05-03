@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there, I'm Ginny Tanui </h1>
 <h3 align="center">💻 Frontend Dev | 🔧 Backend Engineering Learner | 🚀 Growth-Focused</h3>
 
 ---
