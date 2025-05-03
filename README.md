@@ -23,9 +23,8 @@ While I’m diving deep into backend development — learning things like APIs, 
 
 ### ⚙️ Currently Learning (Backend):
 - Python (Scripting + OOP)
-- Flask & Django
+- Django
 - MySQL/PostgreSQL
-- Linux, Shell Scripting, Docker
 - Building and consuming RESTful APIs
 
 ---
@@ -67,9 +66,6 @@ I aim to combine my frontend experience with backend skills to build powerful fu
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
